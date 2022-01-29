@@ -13,7 +13,7 @@ Sample Output 1 :
 */
 
 import java.util.Scanner;
-public class Solution {
+public class SumOfEvenNumbersTillN {
 
 	public static void main(String[] args) {
 		
