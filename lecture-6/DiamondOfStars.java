@@ -29,7 +29,7 @@ Sample Output 2:
   *
  */
  import java.util.Scanner;
-public class Solution {
+public class DiamondOfStars {
     
     public static void main(String[] args) {
         // Write your code here
