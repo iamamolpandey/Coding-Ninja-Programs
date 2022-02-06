@@ -22,7 +22,7 @@ import java.util.Scanner;
 public class TermsOfAP {
 	
 	public static void main(String[] args) {
-		// Write your code here
+		
         Scanner s = new Scanner(System.in);
         int x = s.nextInt();
         int count=0;
