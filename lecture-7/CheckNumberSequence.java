@@ -63,8 +63,8 @@ import java.util.Scanner;
 public class CheckNumberSequence {
 	
 	public static void main(String[] args) {
-		// Write your code here
-        Scanner s = new Scanner(System.in);
+		
+                Scanner s = new Scanner(System.in);
 		int x = s.nextInt();
 		int i = 0, flag = 0;
 		boolean inc = true, desc = true;
