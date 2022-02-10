@@ -24,7 +24,6 @@ import java.util.Scanner;
 public class CheckArmstrong {
 	
 	public static void main(String[] args) {
-		// Write your code here
         Scanner s = new Scanner(System.in);
         int n = s.nextInt();
         String str = String.valueOf(n); 
@@ -38,9 +37,9 @@ public class CheckArmstrong {
             num = num/10;
         }
         if(sum==n)
-			System.out.println("true");
+		System.out.println("true");
         else
-            System.out.println("false");
+           	 System.out.println("false");
 
 	}
 }
