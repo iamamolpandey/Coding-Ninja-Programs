@@ -31,7 +31,7 @@ public class ZerosAndStarsPattern {
 
 	public static void main(String[] args) {
 
-		Scanner s = new Scanner(System.in);
+	Scanner s = new Scanner(System.in);
         int n = s.nextInt();
         int i = 1;
         while(i<=n){
@@ -53,7 +53,7 @@ public class ZerosAndStarsPattern {
             }
             System.out.println();
 			i++;
-        }
+           }
 	}	
 
 
