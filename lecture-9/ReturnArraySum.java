@@ -33,3 +33,16 @@ Sample Output 2:
 15
 60
 */
+public class ReturnArraySum {
+
+	public static int sum(int[] arr) {
+            int sum = 0;
+            int number = arr.length;
+            for(int i = 0; i<number; i++) {
+                sum += arr[i];
+            }
+            return sum;
+	}
+    
+
+}
